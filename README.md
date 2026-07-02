@@ -4,7 +4,46 @@ A **6-stage multi-agent pipeline** for semantically ranking candidates against a
 
 ---
 
-## Architecture
+
+## System Architecture
+
+The application is built using a modern decoupled architecture:
+
+```mermaid
+flowchart LR
+    classDef frontend fill:#e1f5fe,stroke:#0288d1,stroke-width:2px,color:#01579b
+    classDef backend fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#e65100
+    classDef external fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,color:#1b5e20
+    classDef db fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#4a148c
+
+    UI(React Frontend UI):::frontend <-->|HTTP/REST| API(Flask Backend):::backend
+    
+    API -->|Prompt & Resume| Groq[Groq API Llama 3.3]:::external
+    Groq -->|JSON Analysis| API
+    
+    API <-->|SQL pgvector| Supabase[(Supabase PostgreSQL)]:::db
+    API <-->|File Storage| SupabaseStorage[(Supabase Storage)]:::db
+```
+
+### Components:
+1. **Frontend (React + Vite):** Provides a conversational UI where users can paste job descriptions, upload resumes, and input their API keys.
+2. **Backend (Python Flask):** Hosts the REST API, handles PDF parsing (`pypdf`), orchestrates the multi-agent AI pipeline, and communicates with Supabase.
+3. **Database (Supabase):** Stores the candidates metadata and uses `pgvector` to perform lightning-fast semantic vector searches on the candidates.
+4. **LLM (Groq):** Powered by the lightning-fast `llama-3.3-70b-versatile` model. It is used to analyze resumes and run the multi-agent reasoning pipeline (JD Decomposition, Evaluation, and Critic).
+
+## LLM & API Keys
+
+The system requires an LLM to power the intelligent agent stages. We use **Groq** for ultra-low latency inference. 
+
+**Providing your Groq API Key:**
+There are two ways to securely provide your API key:
+1. **Frontend UI:** You can paste your Groq API key directly into the bottom-left settings panel of the web interface. It will be securely stored in your browser's `localStorage` and sent with requests.
+2. **Backend Environment Variable:** You can set the `GROQ_API_KEY` in your `backend/.env` file. The backend will automatically fall back to this environment variable if no key is provided via the UI.
+
+> **Fallback Mode:** If no API key is provided (or if the API key is invalid), the system will gracefully degrade. The backend will catch the failure and return a `mock_analysis` or use rule-based heuristic scoring instead of LLM evaluations, ensuring the app never crashes!
+
+
+## AI Pipeline Architecture
 
 ```mermaid
 flowchart TD
