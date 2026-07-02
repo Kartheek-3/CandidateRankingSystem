@@ -1,5 +1,5 @@
 # Data and large files
-dataset/
+dataset/candidates.jsonl
 *.index
 *.jsonl
 *.parquet
