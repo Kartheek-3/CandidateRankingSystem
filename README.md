@@ -16,13 +16,17 @@ flowchart LR
     classDef external fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,color:#1b5e20
     classDef db fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#4a148c
 
-    UI(React Frontend UI):::frontend <-->|HTTP/REST| API(Flask Backend):::backend
+    UI(React Frontend UI):::frontend -->|HTTP/REST| API(Flask Backend):::backend
+    API -->|HTTP Response| UI
     
-    API -->|Prompt & Resume| Groq[Groq API Llama 3.3]:::external
+    API -->|Prompt and Resume| Groq[Groq API Llama 3.3]:::external
     Groq -->|JSON Analysis| API
     
-    API <-->|SQL pgvector| Supabase[(Supabase PostgreSQL)]:::db
-    API <-->|File Storage| SupabaseStorage[(Supabase Storage)]:::db
+    API -->|SQL pgvector| Supabase[(Supabase PostgreSQL)]:::db
+    Supabase -->|Results| API
+    
+    API -->|File Storage| SupabaseStorage[(Supabase Storage)]:::db
+    SupabaseStorage -->|Files| API
 ```
 
 ### Components:
