@@ -1,0 +1,4 @@
+candidate_id,current_role,experience_years,skills,summary
+cand_csv_1,Senior Go Developer,6,"[""Go"", ""PostgreSQL"", ""Redis"", ""Microservices""]",An experienced backend engineer specializing in Go and scalable architectures.
+cand_csv_2,Frontend Tech Lead,8,"[""React"", ""TypeScript"", ""Next.js"", ""Tailwind""]",A UI/UX focused frontend engineer with extensive leadership experience.
+cand_csv_3,Data Scientist,4,"[""Python"", ""Machine Learning"", ""SQL"", ""TensorFlow""]",Data Scientist who builds ML models to optimize business pipelines.
