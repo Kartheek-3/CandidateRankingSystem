@@ -1,0 +1,2633 @@
+{
+  "results": [
+    {
+      "rank": 1,
+      "candidate_id": "CAND_0070525",
+      "score": 0.851,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 5 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.686,
+        "semantic": 0.522,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0070525",
+        "years_of_experience": 5.4,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.93,
+        "last_active_date": "2026-05-25",
+        "all_skills": "apache beam recommendation systems feature engineering python gans statistical modeling azure yolo prompt engineering llms computer vision embeddings",
+        "profile_completeness_score": 95.6,
+        "interview_completion_rate": 0.89
+      }
+    },
+    {
+      "rank": 2,
+      "candidate_id": "CAND_0051936",
+      "score": 0.8507,
+      "reasoning": "Engineer with 0 years of experience. AI Research Engineer with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.682,
+        "semantic": 0.525,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0051936",
+        "years_of_experience": 3.9,
+        "current_title": "AI Research Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.81,
+        "last_active_date": "2026-05-23",
+        "all_skills": "lora embeddings gans python peft reinforcement learning prompt engineering next.js haystack css pgvector forecasting databricks object detection llamaindex yolo",
+        "profile_completeness_score": 98.5,
+        "interview_completion_rate": 0.76
+      }
+    },
+    {
+      "rank": 3,
+      "candidate_id": "CAND_0028287",
+      "score": 0.8499,
+      "reasoning": "Engineer with 0 years of experience. Data Scientist with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.638,
+        "semantic": 0.582,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0028287",
+        "years_of_experience": 5.7,
+        "current_title": "Data Scientist",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.6,
+        "last_active_date": "2026-05-04",
+        "all_skills": "rag object detection image classification sales opensearch vector search mlflow pinecone nlp gans yolo haystack reinforcement learning python",
+        "profile_completeness_score": 89.1,
+        "interview_completion_rate": 0.76
+      }
+    },
+    {
+      "rank": 4,
+      "candidate_id": "CAND_0067609",
+      "score": 0.8497,
+      "reasoning": "Engineer with 0 years of experience. Junior ML Engineer with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.643,
+        "semantic": 0.572,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0067609",
+        "years_of_experience": 4.5,
+        "current_title": "Junior ML Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.85,
+        "last_active_date": "2026-02-20",
+        "all_skills": "bentoml llms bm25 prompt engineering weights & biases qdrant data pipelines tally lora sap spark reinforcement learning data science forecasting kubeflow python asr",
+        "profile_completeness_score": 84.4,
+        "interview_completion_rate": 0.56
+      }
+    },
+    {
+      "rank": 5,
+      "candidate_id": "CAND_0083790",
+      "score": 0.8495,
+      "reasoning": "Engineer with 0 years of experience. Data Scientist with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.675,
+        "semantic": 0.521,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0083790",
+        "years_of_experience": 3.5,
+        "current_title": "Data Scientist",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.83,
+        "last_active_date": "2026-05-25",
+        "all_skills": "image classification rag object detection reinforcement learning yolo next.js mlops lora faiss weaviate figma nlp bentoml time series webpack milvus python",
+        "profile_completeness_score": 93.0,
+        "interview_completion_rate": 0.7
+      }
+    },
+    {
+      "rank": 6,
+      "candidate_id": "CAND_0082262",
+      "score": 0.8492,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.666,
+        "semantic": 0.531,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0082262",
+        "years_of_experience": 5.9,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.64,
+        "last_active_date": "2026-03-15",
+        "all_skills": "langchain python tts qlora cnn weaviate reinforcement learning etl speech recognition llamaindex pytorch",
+        "profile_completeness_score": 94.1,
+        "interview_completion_rate": 0.89
+      }
+    },
+    {
+      "rank": 7,
+      "candidate_id": "CAND_0059795",
+      "score": 0.8483,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.664,
+        "semantic": 0.523,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0059795",
+        "years_of_experience": 5.6,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.75,
+        "last_active_date": "2026-02-23",
+        "all_skills": "langchain javascript llms gans speech recognition hugging face transformers python machine learning time series forecasting azure object detection data science yolo",
+        "profile_completeness_score": 53.8,
+        "interview_completion_rate": 0.89
+      }
+    },
+    {
+      "rank": 8,
+      "candidate_id": "CAND_0043495",
+      "score": 0.8478,
+      "reasoning": "Engineer with 0 years of experience. Mobile Developer with 7 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.642,
+        "semantic": 0.552,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0043495",
+        "years_of_experience": 7.1,
+        "current_title": "Mobile Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.54,
+        "last_active_date": "2025-11-28",
+        "all_skills": "fastapi typescript python ci/cd go node.js scikit-learn flask javascript kubernetes grpc",
+        "profile_completeness_score": 79.7,
+        "interview_completion_rate": 0.88
+      }
+    },
+    {
+      "rank": 9,
+      "candidate_id": "CAND_0003791",
+      "score": 0.8473,
+      "reasoning": "Engineer with 0 years of experience. ML Engineer with 7 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.655,
+        "semantic": 0.525,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0003791",
+        "years_of_experience": 6.6,
+        "current_title": "ML Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.66,
+        "last_active_date": "2026-03-07",
+        "all_skills": "llms gans mlops etl computer vision hugging face transformers yolo reinforcement learning css statistical modeling asr pytorch pgvector python image classification weaviate bm25",
+        "profile_completeness_score": 94.2,
+        "interview_completion_rate": 0.98
+      }
+    },
+    {
+      "rank": 10,
+      "candidate_id": "CAND_0061666",
+      "score": 0.8468,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 10 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.627,
+        "semantic": 0.563,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0061666",
+        "years_of_experience": 9.6,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.85,
+        "last_active_date": "2026-01-07",
+        "all_skills": "weaviate sales angular mongodb kafka next.js css hadoop python bigquery",
+        "profile_completeness_score": 82.0,
+        "interview_completion_rate": 0.75
+      }
+    },
+    {
+      "rank": 11,
+      "candidate_id": "CAND_0079821",
+      "score": 0.8445,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 10 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.624,
+        "semantic": 0.541,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0079821",
+        "years_of_experience": 9.6,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.76,
+        "last_active_date": "2026-04-15",
+        "all_skills": "terraform gcp django sales css apache beam powerpoint reinforcement learning python project management computer vision react speech recognition",
+        "profile_completeness_score": 31.9,
+        "interview_completion_rate": 0.9
+      }
+    },
+    {
+      "rank": 12,
+      "candidate_id": "CAND_0089495",
+      "score": 0.843,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.606,
+        "semantic": 0.55,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0089495",
+        "years_of_experience": 4.3,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.72,
+        "last_active_date": "2026-04-14",
+        "all_skills": "object detection weights & biases python time series html pytorch feature engineering data science lora scikit-learn milvus embeddings apache flink faiss vue.js",
+        "profile_completeness_score": 67.6,
+        "interview_completion_rate": 0.56
+      }
+    },
+    {
+      "rank": 13,
+      "candidate_id": "CAND_0060886",
+      "score": 0.8425,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 5 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.62,
+        "semantic": 0.523,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0060886",
+        "years_of_experience": 4.6,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.38,
+        "last_active_date": "2026-04-12",
+        "all_skills": "faiss python mlflow statistical modeling gans image classification speech recognition tailwind langchain microservices java machine learning vector search pinecone",
+        "profile_completeness_score": 94.1,
+        "interview_completion_rate": 0.87
+      }
+    },
+    {
+      "rank": 14,
+      "candidate_id": "CAND_0004678",
+      "score": 0.8422,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 10 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.615,
+        "semantic": 0.527,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0004678",
+        "years_of_experience": 9.6,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.76,
+        "last_active_date": "2026-02-25",
+        "all_skills": "vue.js python angular excel lora rest apis spark photoshop kubernetes content writing graphql",
+        "profile_completeness_score": 87.4,
+        "interview_completion_rate": 0.74
+      }
+    },
+    {
+      "rank": 15,
+      "candidate_id": "CAND_0094786",
+      "score": 0.8419,
+      "reasoning": "Engineer with 0 years of experience. Full Stack Developer with 9 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.617,
+        "semantic": 0.521,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0094786",
+        "years_of_experience": 9.0,
+        "current_title": "Full Stack Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.55,
+        "last_active_date": "2026-01-28",
+        "all_skills": "lora image classification dbt python mlflow javascript react webpack data science rust",
+        "profile_completeness_score": 50.9,
+        "interview_completion_rate": 0.79
+      }
+    },
+    {
+      "rank": 16,
+      "candidate_id": "CAND_0010541",
+      "score": 0.8414,
+      "reasoning": "Engineer with 0 years of experience. AI Research Engineer with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.59,
+        "semantic": 0.557,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0010541",
+        "years_of_experience": 6.2,
+        "current_title": "AI Research Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.59,
+        "last_active_date": "2026-03-08",
+        "all_skills": "pinecone gans weaviate computer vision tts mlops data science lora python feature engineering java yolo bm25 qdrant scrum nlp",
+        "profile_completeness_score": 75.3,
+        "interview_completion_rate": 0.87
+      }
+    },
+    {
+      "rank": 17,
+      "candidate_id": "CAND_0021116",
+      "score": 0.8413,
+      "reasoning": "Engineer with 0 years of experience. .NET Developer with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.592,
+        "semantic": 0.552,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0021116",
+        "years_of_experience": 6.5,
+        "current_title": ".NET Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.37,
+        "last_active_date": "2026-03-15",
+        "all_skills": "weaviate figma flask snowflake forecasting etl dbt spring boot python",
+        "profile_completeness_score": 60.1,
+        "interview_completion_rate": 0.75
+      }
+    },
+    {
+      "rank": 18,
+      "candidate_id": "CAND_0006988",
+      "score": 0.8409,
+      "reasoning": "Engineer with 0 years of experience. Frontend Engineer with 9 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.585,
+        "semantic": 0.558,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0006988",
+        "years_of_experience": 9.4,
+        "current_title": "Frontend Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.79,
+        "last_active_date": "2026-01-15",
+        "all_skills": "azure airflow java flask react terraform python django",
+        "profile_completeness_score": 74.9,
+        "interview_completion_rate": 0.47
+      }
+    },
+    {
+      "rank": 19,
+      "candidate_id": "CAND_0005421",
+      "score": 0.8405,
+      "reasoning": "Engineer with 0 years of experience. Junior ML Engineer with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.601,
+        "semantic": 0.529,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0005421",
+        "years_of_experience": 3.9,
+        "current_title": "Junior ML Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.43,
+        "last_active_date": "2026-04-08",
+        "all_skills": "rag kafka flask gans feature engineering python asr qlora azure mlflow pgvector redis",
+        "profile_completeness_score": 83.5,
+        "interview_completion_rate": 0.61
+      }
+    },
+    {
+      "rank": 20,
+      "candidate_id": "CAND_0075502",
+      "score": 0.8404,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 3 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.593,
+        "semantic": 0.54,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0075502",
+        "years_of_experience": 3.3,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.3,
+        "last_active_date": "2026-02-17",
+        "all_skills": "qdrant redis computer vision pgvector semantic search bm25 image classification hugging face transformers cnn tally yolo diffusion models weaviate feature engineering milvus kubeflow gans python",
+        "profile_completeness_score": 75.4,
+        "interview_completion_rate": 0.64
+      }
+    },
+    {
+      "rank": 21,
+      "candidate_id": "CAND_0084161",
+      "score": 0.8396,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.57,
+        "semantic": 0.566,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0084161",
+        "years_of_experience": 3.9,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.77,
+        "last_active_date": "2026-05-04",
+        "all_skills": "tts mongodb opensearch sentence transformers python tally forecasting langchain semantic search llms object detection weights & biases",
+        "profile_completeness_score": 45.5,
+        "interview_completion_rate": 0.52
+      }
+    },
+    {
+      "rank": 22,
+      "candidate_id": "CAND_0041290",
+      "score": 0.8394,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 5 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.59,
+        "semantic": 0.532,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0041290",
+        "years_of_experience": 5.0,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.51,
+        "last_active_date": "2025-12-14",
+        "all_skills": "sales agile bigquery java apache beam graphql python six sigma etl azure excel rest apis",
+        "profile_completeness_score": 52.9,
+        "interview_completion_rate": 0.57
+      }
+    },
+    {
+      "rank": 23,
+      "candidate_id": "CAND_0053426",
+      "score": 0.838,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.583,
+        "semantic": 0.526,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0053426",
+        "years_of_experience": 4.0,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.6,
+        "last_active_date": "2025-12-24",
+        "all_skills": "python nlp asr grpc javascript etl terraform project management mlops webpack aws photoshop",
+        "profile_completeness_score": 64.8,
+        "interview_completion_rate": 0.73
+      }
+    },
+    {
+      "rank": 24,
+      "candidate_id": "CAND_0098452",
+      "score": 0.838,
+      "reasoning": "Engineer with 0 years of experience. Frontend Engineer with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.557,
+        "semantic": 0.567,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0098452",
+        "years_of_experience": 5.5,
+        "current_title": "Frontend Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.43,
+        "last_active_date": "2026-03-22",
+        "all_skills": "marketing go fastapi snowflake gcp weaviate grpc sql typescript python redux rest apis react",
+        "profile_completeness_score": 30.5,
+        "interview_completion_rate": 0.66
+      }
+    },
+    {
+      "rank": 25,
+      "candidate_id": "CAND_0096747",
+      "score": 0.8377,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 10 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.58,
+        "semantic": 0.527,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0096747",
+        "years_of_experience": 9.9,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.46,
+        "last_active_date": "2026-02-10",
+        "all_skills": "typescript rust ci/cd python figma seo object detection html airflow apache beam tally snowflake",
+        "profile_completeness_score": 73.9,
+        "interview_completion_rate": 0.92
+      }
+    },
+    {
+      "rank": 26,
+      "candidate_id": "CAND_0038900",
+      "score": 0.8376,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 5 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.582,
+        "semantic": 0.524,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0038900",
+        "years_of_experience": 5.2,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.66,
+        "last_active_date": "2026-03-06",
+        "all_skills": "reinforcement learning rust java rest apis bentoml tailwind javascript speech recognition powerpoint python",
+        "profile_completeness_score": 61.5,
+        "interview_completion_rate": 0.71
+      }
+    },
+    {
+      "rank": 27,
+      "candidate_id": "CAND_0057753",
+      "score": 0.8375,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 7 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.55,
+        "semantic": 0.572,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0057753",
+        "years_of_experience": 7.4,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.61,
+        "last_active_date": "2026-04-06",
+        "all_skills": "salesforce crm graphql project management rest apis python grpc webpack content writing qlora",
+        "profile_completeness_score": 50.6,
+        "interview_completion_rate": 0.53
+      }
+    },
+    {
+      "rank": 28,
+      "candidate_id": "CAND_0019827",
+      "score": 0.8372,
+      "reasoning": "Engineer with 0 years of experience. Full Stack Developer with 7 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.579,
+        "semantic": 0.523,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0019827",
+        "years_of_experience": 7.4,
+        "current_title": "Full Stack Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.8,
+        "last_active_date": "2026-04-17",
+        "all_skills": "illustrator react snowflake typescript sales python go apache beam photoshop django",
+        "profile_completeness_score": 57.7,
+        "interview_completion_rate": 0.65
+      }
+    },
+    {
+      "rank": 29,
+      "candidate_id": "CAND_0060640",
+      "score": 0.8372,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.557,
+        "semantic": 0.557,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0060640",
+        "years_of_experience": 3.8,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.67,
+        "last_active_date": "2026-04-04",
+        "all_skills": "next.js python seo content writing ci/cd dbt scikit-learn apache flink",
+        "profile_completeness_score": 43.7,
+        "interview_completion_rate": 0.55
+      }
+    },
+    {
+      "rank": 30,
+      "candidate_id": "CAND_0075129",
+      "score": 0.8372,
+      "reasoning": "Engineer with 0 years of experience. Full Stack Developer with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.542,
+        "semantic": 0.581,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0075129",
+        "years_of_experience": 3.9,
+        "current_title": "Full Stack Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.56,
+        "last_active_date": "2026-05-18",
+        "all_skills": "six sigma etl ci/cd css python rust vue.js marketing pytorch",
+        "profile_completeness_score": 80.4,
+        "interview_completion_rate": 0.47
+      }
+    },
+    {
+      "rank": 31,
+      "candidate_id": "CAND_0059136",
+      "score": 0.8371,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 8 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.572,
+        "semantic": 0.533,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0059136",
+        "years_of_experience": 7.7,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.8,
+        "last_active_date": "2026-01-10",
+        "all_skills": "node.js microservices illustrator bentoml python bigquery mongodb scrum weaviate data pipelines accounting flask",
+        "profile_completeness_score": 50.7,
+        "interview_completion_rate": 0.77
+      }
+    },
+    {
+      "rank": 32,
+      "candidate_id": "CAND_0080066",
+      "score": 0.8357,
+      "reasoning": "Engineer with 0 years of experience. Full Stack Developer with 8 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.557,
+        "semantic": 0.539,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0080066",
+        "years_of_experience": 7.9,
+        "current_title": "Full Stack Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.78,
+        "last_active_date": "2026-04-07",
+        "all_skills": "vue.js etl opencv computer vision python mlflow bigquery next.js docker tailwind sql",
+        "profile_completeness_score": 75.3,
+        "interview_completion_rate": 0.5
+      }
+    },
+    {
+      "rank": 33,
+      "candidate_id": "CAND_0094059",
+      "score": 0.8355,
+      "reasoning": "Engineer with 0 years of experience. Full Stack Developer with 3 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.559,
+        "semantic": 0.534,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0094059",
+        "years_of_experience": 3.3,
+        "current_title": "Full Stack Developer",
+        "is_consulting_only": true,
+        "recruiter_response_rate": 0.28,
+        "last_active_date": "2026-04-26",
+        "all_skills": "spring boot python css accounting snowflake spark rag scrum vue.js mongodb feature engineering",
+        "profile_completeness_score": 54.6,
+        "interview_completion_rate": 0.73
+      }
+    },
+    {
+      "rank": 34,
+      "candidate_id": "CAND_0075955",
+      "score": 0.8348,
+      "reasoning": "Engineer with 0 years of experience. DevOps Engineer with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.543,
+        "semantic": 0.551,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0075955",
+        "years_of_experience": 6.1,
+        "current_title": "DevOps Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.24,
+        "last_active_date": "2025-12-07",
+        "all_skills": "spark flask mongodb mlops tailwind webpack python reinforcement learning photoshop marketing kubeflow",
+        "profile_completeness_score": 67.7,
+        "interview_completion_rate": 0.91
+      }
+    },
+    {
+      "rank": 35,
+      "candidate_id": "CAND_0052392",
+      "score": 0.834,
+      "reasoning": "Engineer with 0 years of experience. Frontend Engineer with 5 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.555,
+        "semantic": 0.523,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0052392",
+        "years_of_experience": 5.2,
+        "current_title": "Frontend Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.44,
+        "last_active_date": "2026-04-27",
+        "all_skills": "dbt angular agile node.js python postgresql kafka llamaindex redux apache beam html webpack kubeflow salesforce crm",
+        "profile_completeness_score": 67.7,
+        "interview_completion_rate": 0.6
+      }
+    },
+    {
+      "rank": 36,
+      "candidate_id": "CAND_0052138",
+      "score": 0.8337,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 8 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.526,
+        "semantic": 0.565,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0052138",
+        "years_of_experience": 8.3,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.41,
+        "last_active_date": "2026-02-05",
+        "all_skills": "rust snowflake bentoml python dbt kafka flask java kubeflow forecasting django sales",
+        "profile_completeness_score": 52.7,
+        "interview_completion_rate": 0.58
+      }
+    },
+    {
+      "rank": 37,
+      "candidate_id": "CAND_0067000",
+      "score": 0.8335,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 5 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.541,
+        "semantic": 0.538,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0067000",
+        "years_of_experience": 5.3,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.21,
+        "last_active_date": "2025-12-25",
+        "all_skills": "python seo data pipelines terraform javascript figma go excel spark object detection statistical modeling illustrator css project management grpc",
+        "profile_completeness_score": 68.0,
+        "interview_completion_rate": 0.94
+      }
+    },
+    {
+      "rank": 38,
+      "candidate_id": "CAND_0082289",
+      "score": 0.8331,
+      "reasoning": "Engineer with 0 years of experience. Frontend Engineer with 8 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.539,
+        "semantic": 0.537,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0082289",
+        "years_of_experience": 7.5,
+        "current_title": "Frontend Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.26,
+        "last_active_date": "2026-03-01",
+        "all_skills": "bigquery node.js marketing java next.js mongodb sales illustrator docker python tally",
+        "profile_completeness_score": 30.8,
+        "interview_completion_rate": 0.87
+      }
+    },
+    {
+      "rank": 39,
+      "candidate_id": "CAND_0052171",
+      "score": 0.8326,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 7 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.537,
+        "semantic": 0.534,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0052171",
+        "years_of_experience": 7.1,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.52,
+        "last_active_date": "2025-12-28",
+        "all_skills": "faiss tailwind sql grpc python javascript content writing spark aws agile project management databricks",
+        "profile_completeness_score": 44.6,
+        "interview_completion_rate": 0.91
+      }
+    },
+    {
+      "rank": 40,
+      "candidate_id": "CAND_0089285",
+      "score": 0.8323,
+      "reasoning": "Engineer with 0 years of experience. Frontend Engineer with 9 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.542,
+        "semantic": 0.522,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0089285",
+        "years_of_experience": 8.9,
+        "current_title": "Frontend Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.53,
+        "last_active_date": "2026-05-13",
+        "all_skills": "hadoop vue.js next.js excel rust typescript apache beam etl photoshop azure python",
+        "profile_completeness_score": 73.2,
+        "interview_completion_rate": 0.74
+      }
+    },
+    {
+      "rank": 41,
+      "candidate_id": "CAND_0027190",
+      "score": 0.8312,
+      "reasoning": "Engineer with 0 years of experience. Cloud Engineer with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.513,
+        "semantic": 0.555,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0027190",
+        "years_of_experience": 6.2,
+        "current_title": "Cloud Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.43,
+        "last_active_date": "2026-02-22",
+        "all_skills": "agile mongodb spring boot statistical modeling tailwind terraform python gcp django sql go gans object detection salesforce crm content writing",
+        "profile_completeness_score": 73.8,
+        "interview_completion_rate": 0.59
+      }
+    },
+    {
+      "rank": 42,
+      "candidate_id": "CAND_0058356",
+      "score": 0.8307,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.519,
+        "semantic": 0.539,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0058356",
+        "years_of_experience": 5.8,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.34,
+        "last_active_date": "2026-01-27",
+        "all_skills": "graphql figma kubernetes reinforcement learning snowflake gcp kafka pytorch python kubeflow sales",
+        "profile_completeness_score": 40.3,
+        "interview_completion_rate": 0.49
+      }
+    },
+    {
+      "rank": 43,
+      "candidate_id": "CAND_0066713",
+      "score": 0.8302,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.521,
+        "semantic": 0.53,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0066713",
+        "years_of_experience": 5.7,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.45,
+        "last_active_date": "2026-05-10",
+        "all_skills": "image classification gans llamaindex python computer vision learning to rank hugging face transformers flask prompt engineering airflow lora mlflow bentoml",
+        "profile_completeness_score": 86.7,
+        "interview_completion_rate": 0.56
+      }
+    },
+    {
+      "rank": 44,
+      "candidate_id": "CAND_0096430",
+      "score": 0.8302,
+      "reasoning": "Engineer with 0 years of experience. DevOps Engineer with 9 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.523,
+        "semantic": 0.527,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0096430",
+        "years_of_experience": 8.7,
+        "current_title": "DevOps Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.19,
+        "last_active_date": "2025-12-25",
+        "all_skills": "tailwind typescript sap excel python css bentoml sql javascript weaviate project management apache beam vue.js",
+        "profile_completeness_score": 87.4,
+        "interview_completion_rate": 0.47
+      }
+    },
+    {
+      "rank": 45,
+      "candidate_id": "CAND_0006622",
+      "score": 0.8299,
+      "reasoning": "Engineer with 0 years of experience. Frontend Engineer with 3 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.523,
+        "semantic": 0.523,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0006622",
+        "years_of_experience": 3.0,
+        "current_title": "Frontend Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.69,
+        "last_active_date": "2026-02-24",
+        "all_skills": "mlflow bigquery agile go apache flink postgresql css python recommendation systems",
+        "profile_completeness_score": 31.1,
+        "interview_completion_rate": 0.47
+      }
+    },
+    {
+      "rank": 46,
+      "candidate_id": "CAND_0019711",
+      "score": 0.8299,
+      "reasoning": "Engineer with 0 years of experience. Frontend Engineer with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.513,
+        "semantic": 0.539,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0019711",
+        "years_of_experience": 5.6,
+        "current_title": "Frontend Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.5,
+        "last_active_date": "2026-03-05",
+        "all_skills": "python go rest apis kubernetes typescript illustrator rust",
+        "profile_completeness_score": 70.5,
+        "interview_completion_rate": 0.51
+      }
+    },
+    {
+      "rank": 47,
+      "candidate_id": "CAND_0019223",
+      "score": 0.8294,
+      "reasoning": "Engineer with 0 years of experience. Full Stack Developer with 10 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.515,
+        "semantic": 0.53,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0019223",
+        "years_of_experience": 9.8,
+        "current_title": "Full Stack Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.35,
+        "last_active_date": "2026-04-07",
+        "all_skills": "graphql powerpoint content writing python redux excel project management ci/cd django spark sql html yolo",
+        "profile_completeness_score": 49.6,
+        "interview_completion_rate": 0.58
+      }
+    },
+    {
+      "rank": 48,
+      "candidate_id": "CAND_0081970",
+      "score": 0.8286,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 9 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.502,
+        "semantic": 0.54,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0081970",
+        "years_of_experience": 9.2,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.48,
+        "last_active_date": "2026-02-13",
+        "all_skills": "speech recognition excel airflow python powerpoint css mlops spring boot react redux elasticsearch sql",
+        "profile_completeness_score": 55.3,
+        "interview_completion_rate": 0.52
+      }
+    },
+    {
+      "rank": 49,
+      "candidate_id": "CAND_0084122",
+      "score": 0.8286,
+      "reasoning": "Engineer with 0 years of experience. Cloud Engineer with 6 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.512,
+        "semantic": 0.524,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0084122",
+        "years_of_experience": 5.6,
+        "current_title": "Cloud Engineer",
+        "is_consulting_only": true,
+        "recruiter_response_rate": 0.37,
+        "last_active_date": "2026-05-20",
+        "all_skills": "spark gcp seo html apache beam sql react python node.js pinecone typescript spring boot go bigquery",
+        "profile_completeness_score": 42.5,
+        "interview_completion_rate": 0.56
+      }
+    },
+    {
+      "rank": 50,
+      "candidate_id": "CAND_0099981",
+      "score": 0.8275,
+      "reasoning": "Engineer with 0 years of experience. Full Stack Developer with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.501,
+        "semantic": 0.528,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0099981",
+        "years_of_experience": 3.8,
+        "current_title": "Full Stack Developer",
+        "is_consulting_only": true,
+        "recruiter_response_rate": 0.36,
+        "last_active_date": "2026-01-11",
+        "all_skills": "next.js python figma project management spring boot six sigma java deep learning time series powerpoint sql kafka graphql forecasting grpc sap",
+        "profile_completeness_score": 84.1,
+        "interview_completion_rate": 0.52
+      }
+    },
+    {
+      "rank": 51,
+      "candidate_id": "CAND_0054609",
+      "score": 0.827,
+      "reasoning": "Engineer with 0 years of experience. Full Stack Developer with 4 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.501,
+        "semantic": 0.522,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0054609",
+        "years_of_experience": 3.7,
+        "current_title": "Full Stack Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.19,
+        "last_active_date": "2026-05-17",
+        "all_skills": "powerpoint webpack html excel semantic search terraform react java apache beam cnn image classification python tts tailwind databricks",
+        "profile_completeness_score": 81.8,
+        "interview_completion_rate": 0.78
+      }
+    },
+    {
+      "rank": 52,
+      "candidate_id": "CAND_0026994",
+      "score": 0.8257,
+      "reasoning": "Engineer with 0 years of experience. Full Stack Developer with 5 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.487,
+        "semantic": 0.529,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0026994",
+        "years_of_experience": 5.1,
+        "current_title": "Full Stack Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.1,
+        "last_active_date": "2026-01-09",
+        "all_skills": "agile graphql gcp snowflake sql django kubernetes python javascript rag",
+        "profile_completeness_score": 43.5,
+        "interview_completion_rate": 0.58
+      }
+    },
+    {
+      "rank": 53,
+      "candidate_id": "CAND_0095569",
+      "score": 0.8254,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 10 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.487,
+        "semantic": 0.525,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0095569",
+        "years_of_experience": 9.7,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.14,
+        "last_active_date": "2026-05-02",
+        "all_skills": "spring boot python typescript rest apis kubernetes marketing hadoop agile time series",
+        "profile_completeness_score": 87.5,
+        "interview_completion_rate": 0.68
+      }
+    },
+    {
+      "rank": 54,
+      "candidate_id": "CAND_0052498",
+      "score": 0.8251,
+      "reasoning": "Engineer with 0 years of experience. ML Engineer with 5 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.486,
+        "semantic": 0.524,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0052498",
+        "years_of_experience": 4.7,
+        "current_title": "ML Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.29,
+        "last_active_date": "2026-02-19",
+        "all_skills": "pytorch python opencv qlora data science langchain weights & biases pinecone machine learning diffusion models content writing kubeflow computer vision sql asr pgvector",
+        "profile_completeness_score": 77.8,
+        "interview_completion_rate": 0.62
+      }
+    },
+    {
+      "rank": 55,
+      "candidate_id": "CAND_0025177",
+      "score": 0.8248,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 10 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.482,
+        "semantic": 0.526,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0025177",
+        "years_of_experience": 9.9,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.35,
+        "last_active_date": "2026-02-09",
+        "all_skills": "html go haystack statistical modeling redux tailwind fastapi python aws spring boot microservices typescript gans",
+        "profile_completeness_score": 61.5,
+        "interview_completion_rate": 0.76
+      }
+    },
+    {
+      "rank": 56,
+      "candidate_id": "CAND_0089198",
+      "score": 0.8182,
+      "reasoning": "Engineer with 0 years of experience. Full Stack Developer with 9 years experience Skills matched: python Strong coverage of required technical skills.",
+      "sub_scores": {
+        "technical": 1.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.435,
+        "semantic": 0.52,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0089198",
+        "years_of_experience": 8.6,
+        "current_title": "Full Stack Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.09,
+        "last_active_date": "2025-12-18",
+        "all_skills": "lora weights & biases python kubernetes machine learning diffusion models scikit-learn deep learning object detection information retrieval hugging face transformers illustrator apache flink vector search reinforcement learning graphql",
+        "profile_completeness_score": 51.8,
+        "interview_completion_rate": 0.45
+      }
+    },
+    {
+      "rank": 57,
+      "candidate_id": "CAND_0037716",
+      "score": 0.8086,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 3 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.629,
+        "semantic": 0.548,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0037716",
+        "years_of_experience": 3.0,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.83,
+        "last_active_date": "2025-12-21",
+        "all_skills": "hadoop python seo project management content writing airflow sentence transformers figma",
+        "profile_completeness_score": 84.9,
+        "interview_completion_rate": 0.79
+      }
+    },
+    {
+      "rank": 58,
+      "candidate_id": "CAND_0001128",
+      "score": 0.8076,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 6 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.62,
+        "semantic": 0.55,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0001128",
+        "years_of_experience": 6.4,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.45,
+        "last_active_date": "2026-03-26",
+        "all_skills": "postgresql kubernetes azure angular python css bigquery powerpoint agile sql kafka",
+        "profile_completeness_score": 71.3,
+        "interview_completion_rate": 0.85
+      }
+    },
+    {
+      "rank": 59,
+      "candidate_id": "CAND_0031143",
+      "score": 0.8072,
+      "reasoning": "Engineer with 0 years of experience. ML Engineer with 6 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.618,
+        "semantic": 0.548,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0031143",
+        "years_of_experience": 5.5,
+        "current_title": "ML Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.84,
+        "last_active_date": "2026-05-07",
+        "all_skills": "mongodb qlora hadoop diffusion models rust python tts time series deep learning airflow hugging face transformers feature engineering",
+        "profile_completeness_score": 67.3,
+        "interview_completion_rate": 0.86
+      }
+    },
+    {
+      "rank": 60,
+      "candidate_id": "CAND_0068393",
+      "score": 0.804,
+      "reasoning": "Engineer with 0 years of experience. Junior ML Engineer with 4 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.598,
+        "semantic": 0.541,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0068393",
+        "years_of_experience": 4.4,
+        "current_title": "Junior ML Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.62,
+        "last_active_date": "2026-02-23",
+        "all_skills": "information retrieval asr qdrant gans project management azure cnn faiss mlflow python",
+        "profile_completeness_score": 46.2,
+        "interview_completion_rate": 0.52
+      }
+    },
+    {
+      "rank": 61,
+      "candidate_id": "CAND_0060686",
+      "score": 0.8026,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 9 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.582,
+        "semantic": 0.549,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0060686",
+        "years_of_experience": 9.4,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.45,
+        "last_active_date": "2026-04-06",
+        "all_skills": "computer vision accounting information retrieval flask python databricks rest apis kafka",
+        "profile_completeness_score": 77.6,
+        "interview_completion_rate": 0.93
+      }
+    },
+    {
+      "rank": 62,
+      "candidate_id": "CAND_0004768",
+      "score": 0.8007,
+      "reasoning": "Engineer with 0 years of experience. Frontend Engineer with 3 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.572,
+        "semantic": 0.542,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0004768",
+        "years_of_experience": 3.3,
+        "current_title": "Frontend Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.31,
+        "last_active_date": "2026-01-05",
+        "all_skills": "html photoshop sql java snowflake python",
+        "profile_completeness_score": 76.9,
+        "interview_completion_rate": 0.77
+      }
+    },
+    {
+      "rank": 63,
+      "candidate_id": "CAND_0085691",
+      "score": 0.7987,
+      "reasoning": "Engineer with 0 years of experience. Mobile Developer with 7 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.557,
+        "semantic": 0.541,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0085691",
+        "years_of_experience": 6.7,
+        "current_title": "Mobile Developer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.75,
+        "last_active_date": "2026-03-05",
+        "all_skills": "css snowflake apache flink tally python etl salesforce crm content writing",
+        "profile_completeness_score": 31.7,
+        "interview_completion_rate": 0.8
+      }
+    },
+    {
+      "rank": 64,
+      "candidate_id": "CAND_0008202",
+      "score": 0.7985,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 6 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.556,
+        "semantic": 0.541,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0008202",
+        "years_of_experience": 5.7,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.5,
+        "last_active_date": "2026-03-28",
+        "all_skills": "haystack typescript faiss python computer vision image classification llms pytorch qdrant rag deep learning feature engineering tailwind ci/cd diffusion models",
+        "profile_completeness_score": 65.7,
+        "interview_completion_rate": 0.67
+      }
+    },
+    {
+      "rank": 65,
+      "candidate_id": "CAND_0091188",
+      "score": 0.7953,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 4 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.531,
+        "semantic": 0.542,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0091188",
+        "years_of_experience": 3.8,
+        "current_title": "Software Engineer",
+        "is_consulting_only": true,
+        "recruiter_response_rate": 0.54,
+        "last_active_date": "2026-03-05",
+        "all_skills": "sap project management machine learning python go hadoop data pipelines webpack illustrator apache flink snowflake excel tts accounting",
+        "profile_completeness_score": 59.8,
+        "interview_completion_rate": 0.69
+      }
+    },
+    {
+      "rank": 66,
+      "candidate_id": "CAND_0090568",
+      "score": 0.7942,
+      "reasoning": "Engineer with 0 years of experience. Frontend Engineer with 6 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.519,
+        "semantic": 0.547,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0090568",
+        "years_of_experience": 6.2,
+        "current_title": "Frontend Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.44,
+        "last_active_date": "2025-12-22",
+        "all_skills": "data pipelines excel six sigma graphql docker etl data science illustrator weights & biases python spring boot html redis",
+        "profile_completeness_score": 34.6,
+        "interview_completion_rate": 0.57
+      }
+    },
+    {
+      "rank": 67,
+      "candidate_id": "CAND_0011981",
+      "score": 0.7916,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 4 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.5,
+        "semantic": 0.546,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0011981",
+        "years_of_experience": 4.3,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.12,
+        "last_active_date": "2026-05-14",
+        "all_skills": "go grpc javascript spring boot apache flink qlora data pipelines angular azure redis python",
+        "profile_completeness_score": 63.3,
+        "interview_completion_rate": 0.49
+      }
+    },
+    {
+      "rank": 68,
+      "candidate_id": "CAND_0059297",
+      "score": 0.7914,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 8 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.501,
+        "semantic": 0.541,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0059297",
+        "years_of_experience": 8.0,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.29,
+        "last_active_date": "2025-12-09",
+        "all_skills": "gcp graphql kubernetes time series redis hadoop python sql node.js apache flink rag",
+        "profile_completeness_score": 43.6,
+        "interview_completion_rate": 0.77
+      }
+    },
+    {
+      "rank": 69,
+      "candidate_id": "CAND_0098902",
+      "score": 0.7893,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 4 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.485,
+        "semantic": 0.541,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0098902",
+        "years_of_experience": 3.7,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.12,
+        "last_active_date": "2025-12-10",
+        "all_skills": "vue.js sales tailwind figma data pipelines spark weights & biases python graphql feature engineering",
+        "profile_completeness_score": 56.8,
+        "interview_completion_rate": 0.58
+      }
+    },
+    {
+      "rank": 70,
+      "candidate_id": "CAND_0022102",
+      "score": 0.789,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 9 years experience Skills matched: python Strong coverage of required technical skills. \u26a0 Risk: High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "sub_scores": {
+        "technical": 0.9,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.483,
+        "semantic": 0.541,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": "High must-have score conflicts with low semantic similarity \u2014 possible keyword listing without depth.",
+      "metadata": {
+        "candidate_id": "CAND_0022102",
+        "years_of_experience": 8.9,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.36,
+        "last_active_date": "2026-03-28",
+        "all_skills": "ci/cd six sigma node.js hadoop html databricks css python javascript hugging face transformers typescript grpc accounting",
+        "profile_completeness_score": 69.8,
+        "interview_completion_rate": 0.42
+      }
+    },
+    {
+      "rank": 71,
+      "candidate_id": "CAND_0086154",
+      "score": 0.4841,
+      "reasoning": "Engineer with 0 years of experience. Data Scientist with 7 years experience Has product company experience Partial skill match \u2014 may require assessment. Strong engagement signals.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.709,
+        "semantic": 0.54,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0086154",
+        "years_of_experience": 6.8,
+        "current_title": "Data Scientist",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.9,
+        "last_active_date": "2026-05-25",
+        "all_skills": "opensearch object detection opencv scikit-learn bentoml node.js ci/cd kubeflow machine learning flask qdrant databricks data science",
+        "profile_completeness_score": 94.0,
+        "interview_completion_rate": 0.9
+      }
+    },
+    {
+      "rank": 72,
+      "candidate_id": "CAND_0068513",
+      "score": 0.4817,
+      "reasoning": "Engineer with 0 years of experience. Computer Vision Engineer with 4 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.695,
+        "semantic": 0.528,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0068513",
+        "years_of_experience": 4.0,
+        "current_title": "Computer Vision Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.8,
+        "last_active_date": "2026-05-23",
+        "all_skills": "forecasting qdrant prompt engineering rag statistical modeling learning to rank nlp time series llamaindex salesforce crm asr sentence transformers machine learning",
+        "profile_completeness_score": 92.0,
+        "interview_completion_rate": 0.95
+      }
+    },
+    {
+      "rank": 73,
+      "candidate_id": "CAND_0062658",
+      "score": 0.4816,
+      "reasoning": "Engineer with 0 years of experience. Junior ML Engineer with 4 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.697,
+        "semantic": 0.521,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0062658",
+        "years_of_experience": 4.2,
+        "current_title": "Junior ML Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.81,
+        "last_active_date": "2026-05-22",
+        "all_skills": "mlops node.js yolo llamaindex mlflow vector search css scikit-learn faiss reinforcement learning",
+        "profile_completeness_score": 94.1,
+        "interview_completion_rate": 0.98
+      }
+    },
+    {
+      "rank": 74,
+      "candidate_id": "CAND_0081480",
+      "score": 0.4814,
+      "reasoning": "Engineer with 0 years of experience. Computer Vision Engineer with 6 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.695,
+        "semantic": 0.522,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0081480",
+        "years_of_experience": 5.6,
+        "current_title": "Computer Vision Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.85,
+        "last_active_date": "2026-03-30",
+        "all_skills": "bm25 asr bentoml gans recommendation systems vector search pytorch fine-tuning llms content writing kubeflow ci/cd faiss",
+        "profile_completeness_score": 61.2,
+        "interview_completion_rate": 0.97
+      }
+    },
+    {
+      "rank": 75,
+      "candidate_id": "CAND_0052082",
+      "score": 0.4789,
+      "reasoning": "Engineer with 0 years of experience. Computer Vision Engineer with 3 years experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.668,
+        "semantic": 0.542,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0052082",
+        "years_of_experience": 3.1,
+        "current_title": "Computer Vision Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.83,
+        "last_active_date": "2026-04-03",
+        "all_skills": "vector search pinecone statistical modeling project management tensorflow qdrant elasticsearch llamaindex mlops computer vision pgvector bentoml salesforce crm object detection speech recognition",
+        "profile_completeness_score": 87.5,
+        "interview_completion_rate": 0.57
+      }
+    },
+    {
+      "rank": 76,
+      "candidate_id": "CAND_0001405",
+      "score": 0.4776,
+      "reasoning": "Engineer with 0 years of experience. Data Scientist with 4 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.662,
+        "semantic": 0.533,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0001405",
+        "years_of_experience": 3.5,
+        "current_title": "Data Scientist",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.69,
+        "last_active_date": "2026-05-08",
+        "all_skills": "elasticsearch scrum diffusion models forecasting mlops pgvector time series tensorflow image classification weaviate powerpoint qlora peft deep learning qdrant figma java",
+        "profile_completeness_score": 50.8,
+        "interview_completion_rate": 0.92
+      }
+    },
+    {
+      "rank": 77,
+      "candidate_id": "CAND_0082086",
+      "score": 0.4773,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 6 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.657,
+        "semantic": 0.539,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0082086",
+        "years_of_experience": 6.0,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.85,
+        "last_active_date": "2026-05-14",
+        "all_skills": "feature engineering faiss speech recognition pinecone kubeflow pytorch apache flink forecasting kafka reinforcement learning qlora salesforce crm milvus object detection",
+        "profile_completeness_score": 65.9,
+        "interview_completion_rate": 0.69
+      }
+    },
+    {
+      "rank": 78,
+      "candidate_id": "CAND_0036484",
+      "score": 0.4769,
+      "reasoning": "Engineer with 0 years of experience. AI Research Engineer with 6 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.66,
+        "semantic": 0.523,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0036484",
+        "years_of_experience": 5.7,
+        "current_title": "AI Research Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.8,
+        "last_active_date": "2026-02-20",
+        "all_skills": "statistical modeling image classification qdrant machine learning recommendation systems prompt engineering milvus tensorflow kubeflow opensearch object detection angular mlops",
+        "profile_completeness_score": 60.7,
+        "interview_completion_rate": 0.79
+      }
+    },
+    {
+      "rank": 79,
+      "candidate_id": "CAND_0046353",
+      "score": 0.4769,
+      "reasoning": "Engineer with 0 years of experience. ML Engineer with 6 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.657,
+        "semantic": 0.531,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0046353",
+        "years_of_experience": 6.4,
+        "current_title": "ML Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.73,
+        "last_active_date": "2026-04-19",
+        "all_skills": "mlflow sap gans pytorch faiss prompt engineering statistical modeling bentoml qdrant bm25 nlp weaviate cnn vector search",
+        "profile_completeness_score": 76.9,
+        "interview_completion_rate": 0.85
+      }
+    },
+    {
+      "rank": 80,
+      "candidate_id": "CAND_0042441",
+      "score": 0.4762,
+      "reasoning": "Engineer with 0 years of experience. AI Research Engineer with 4 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.655,
+        "semantic": 0.522,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0042441",
+        "years_of_experience": 4.1,
+        "current_title": "AI Research Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.72,
+        "last_active_date": "2026-03-28",
+        "all_skills": "illustrator feature engineering sentence transformers reinforcement learning rag bentoml semantic search faiss asr data science vector search langchain qdrant diffusion models",
+        "profile_completeness_score": 59.0,
+        "interview_completion_rate": 0.87
+      }
+    },
+    {
+      "rank": 81,
+      "candidate_id": "CAND_0052712",
+      "score": 0.4758,
+      "reasoning": "Engineer with 0 years of experience. AI Research Engineer with 3 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.652,
+        "semantic": 0.522,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0052712",
+        "years_of_experience": 3.1,
+        "current_title": "AI Research Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.78,
+        "last_active_date": "2026-05-27",
+        "all_skills": "computer vision hugging face transformers data science spring boot lora nlp kubernetes mlflow weights & biases photoshop embeddings time series fine-tuning llms terraform",
+        "profile_completeness_score": 99.3,
+        "interview_completion_rate": 0.54
+      }
+    },
+    {
+      "rank": 82,
+      "candidate_id": "CAND_0005883",
+      "score": 0.4757,
+      "reasoning": "Engineer with 0 years of experience. Computer Vision Engineer with 4 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.648,
+        "semantic": 0.531,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0005883",
+        "years_of_experience": 3.5,
+        "current_title": "Computer Vision Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.78,
+        "last_active_date": "2026-04-08",
+        "all_skills": "pgvector nlp asr vector search weights & biases speech recognition cnn six sigma machine learning embeddings llamaindex typescript peft computer vision",
+        "profile_completeness_score": 87.6,
+        "interview_completion_rate": 0.92
+      }
+    },
+    {
+      "rank": 83,
+      "candidate_id": "CAND_0071432",
+      "score": 0.4745,
+      "reasoning": "Engineer with 0 years of experience. Data Scientist with 4 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.637,
+        "semantic": 0.536,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0071432",
+        "years_of_experience": 4.1,
+        "current_title": "Data Scientist",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.47,
+        "last_active_date": "2026-04-27",
+        "all_skills": "opencv yolo learning to rank computer vision data science feature engineering tts weaviate cnn pinecone llms nlp django",
+        "profile_completeness_score": 68.7,
+        "interview_completion_rate": 1.0
+      }
+    },
+    {
+      "rank": 84,
+      "candidate_id": "CAND_0067926",
+      "score": 0.4734,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 8 years experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.63,
+        "semantic": 0.532,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0067926",
+        "years_of_experience": 7.8,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.44,
+        "last_active_date": "2025-11-30",
+        "all_skills": "rust prompt engineering azure css django airflow sql opensearch",
+        "profile_completeness_score": 78.5,
+        "interview_completion_rate": 0.92
+      }
+    },
+    {
+      "rank": 85,
+      "candidate_id": "CAND_0091348",
+      "score": 0.4734,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 4 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.615,
+        "semantic": 0.573,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0091348",
+        "years_of_experience": 3.7,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.86,
+        "last_active_date": "2026-03-24",
+        "all_skills": "mlflow feature engineering time series qdrant yolo recommendation systems angular learning to rank data science tailwind scikit-learn object detection langchain deep learning weights & biases",
+        "profile_completeness_score": 60.4,
+        "interview_completion_rate": 0.75
+      }
+    },
+    {
+      "rank": 86,
+      "candidate_id": "CAND_0049617",
+      "score": 0.4723,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 6 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.626,
+        "semantic": 0.52,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0049617",
+        "years_of_experience": 6.2,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.61,
+        "last_active_date": "2026-02-12",
+        "all_skills": "terraform scrum asr agile mongodb scikit-learn gcp content writing webpack kubernetes typescript javascript",
+        "profile_completeness_score": 48.8,
+        "interview_completion_rate": 0.8
+      }
+    },
+    {
+      "rank": 87,
+      "candidate_id": "CAND_0016309",
+      "score": 0.472,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 7 years experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.622,
+        "semantic": 0.524,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0016309",
+        "years_of_experience": 7.0,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.8,
+        "last_active_date": "2026-05-25",
+        "all_skills": "docker next.js node.js gans fastapi flask graphql terraform spark redux bentoml go rag",
+        "profile_completeness_score": 66.8,
+        "interview_completion_rate": 0.87
+      }
+    },
+    {
+      "rank": 88,
+      "candidate_id": "CAND_0029220",
+      "score": 0.4719,
+      "reasoning": "Engineer with 0 years of experience. AI Specialist with 4 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.612,
+        "semantic": 0.55,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0029220",
+        "years_of_experience": 3.6,
+        "current_title": "AI Specialist",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.73,
+        "last_active_date": "2026-04-28",
+        "all_skills": "scikit-learn opensearch pytorch cnn faiss semantic search tts object detection mlflow webpack",
+        "profile_completeness_score": 60.0,
+        "interview_completion_rate": 0.91
+      }
+    },
+    {
+      "rank": 89,
+      "candidate_id": "CAND_0051003",
+      "score": 0.4714,
+      "reasoning": "Engineer with 0 years of experience. Senior Software Engineer (ML) with 4 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.607,
+        "semantic": 0.553,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0051003",
+        "years_of_experience": 4.0,
+        "current_title": "Senior Software Engineer (ML)",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.7,
+        "last_active_date": "2026-04-01",
+        "all_skills": "qlora tts embeddings feature engineering mlops lora time series semantic search fine-tuning llms marketing information retrieval grpc learning to rank sap vector search",
+        "profile_completeness_score": 60.3,
+        "interview_completion_rate": 0.62
+      }
+    },
+    {
+      "rank": 90,
+      "candidate_id": "CAND_0000522",
+      "score": 0.4703,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 9 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.61,
+        "semantic": 0.521,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0000522",
+        "years_of_experience": 9.2,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.64,
+        "last_active_date": "2026-03-30",
+        "all_skills": "mongodb marketing content writing data science salesforce crm mlflow computer vision databricks css spark recommendation systems",
+        "profile_completeness_score": 49.0,
+        "interview_completion_rate": 0.6
+      }
+    },
+    {
+      "rank": 91,
+      "candidate_id": "CAND_0030328",
+      "score": 0.4698,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 3 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.603,
+        "semantic": 0.529,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0030328",
+        "years_of_experience": 3.0,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.72,
+        "last_active_date": "2026-01-30",
+        "all_skills": "haystack accounting bigquery sap azure prompt engineering apache flink etl data pipelines redis",
+        "profile_completeness_score": 47.9,
+        "interview_completion_rate": 0.91
+      }
+    },
+    {
+      "rank": 92,
+      "candidate_id": "CAND_0053934",
+      "score": 0.4692,
+      "reasoning": "Engineer with 0 years of experience. Computer Vision Engineer with 6 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.597,
+        "semantic": 0.534,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0053934",
+        "years_of_experience": 5.7,
+        "current_title": "Computer Vision Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.32,
+        "last_active_date": "2026-04-04",
+        "all_skills": "tensorflow bigquery cnn milvus embeddings spring boot mlops mlflow speech recognition llamaindex deep learning weights & biases dbt haystack yolo redis asr",
+        "profile_completeness_score": 62.0,
+        "interview_completion_rate": 0.86
+      }
+    },
+    {
+      "rank": 93,
+      "candidate_id": "CAND_0004131",
+      "score": 0.4688,
+      "reasoning": "Engineer with 0 years of experience. Junior ML Engineer with 7 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.598,
+        "semantic": 0.523,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0004131",
+        "years_of_experience": 6.8,
+        "current_title": "Junior ML Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.47,
+        "last_active_date": "2026-03-09",
+        "all_skills": "information retrieval mlflow ci/cd langchain tts qlora pytorch yolo accounting pgvector deep learning diffusion models pinecone elasticsearch angular",
+        "profile_completeness_score": 46.8,
+        "interview_completion_rate": 0.7
+      }
+    },
+    {
+      "rank": 94,
+      "candidate_id": "CAND_0071821",
+      "score": 0.4686,
+      "reasoning": "Engineer with 0 years of experience. Computer Vision Engineer with 7 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.594,
+        "semantic": 0.529,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0071821",
+        "years_of_experience": 6.8,
+        "current_title": "Computer Vision Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.49,
+        "last_active_date": "2026-04-22",
+        "all_skills": "weights & biases mlops speech recognition nlp rest apis feature engineering learning to rank haystack opencv accounting redis microservices rag milvus pgvector sentence transformers",
+        "profile_completeness_score": 90.8,
+        "interview_completion_rate": 0.91
+      }
+    },
+    {
+      "rank": 95,
+      "candidate_id": "CAND_0009200",
+      "score": 0.4685,
+      "reasoning": "Engineer with 0 years of experience. AI Specialist with 6 years experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.592,
+        "semantic": 0.532,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0009200",
+        "years_of_experience": 5.7,
+        "current_title": "AI Specialist",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.32,
+        "last_active_date": "2026-02-23",
+        "all_skills": "sentence transformers time series forecasting lora hugging face transformers feature engineering tts terraform machine learning scikit-learn etl bm25 information retrieval",
+        "profile_completeness_score": 71.9,
+        "interview_completion_rate": 0.58
+      }
+    },
+    {
+      "rank": 96,
+      "candidate_id": "CAND_0082618",
+      "score": 0.4683,
+      "reasoning": "Engineer with 0 years of experience. Data Scientist with 4 years experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.583,
+        "semantic": 0.554,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0082618",
+        "years_of_experience": 3.7,
+        "current_title": "Data Scientist",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.38,
+        "last_active_date": "2026-04-22",
+        "all_skills": "feature engineering information retrieval vector search bentoml recommendation systems asr apache beam llms pytorch mlflow qdrant",
+        "profile_completeness_score": 88.7,
+        "interview_completion_rate": 0.62
+      }
+    },
+    {
+      "rank": 97,
+      "candidate_id": "CAND_0040741",
+      "score": 0.4682,
+      "reasoning": "Engineer with 0 years of experience. Software Engineer with 8 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.592,
+        "semantic": 0.527,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0040741",
+        "years_of_experience": 8.0,
+        "current_title": "Software Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.5,
+        "last_active_date": "2026-05-18",
+        "all_skills": "figma graphql spring boot bigquery redis databricks computer vision angular mongodb excel",
+        "profile_completeness_score": 43.5,
+        "interview_completion_rate": 0.87
+      }
+    },
+    {
+      "rank": 98,
+      "candidate_id": "CAND_0084760",
+      "score": 0.4681,
+      "reasoning": "Engineer with 0 years of experience. Computer Vision Engineer with 3 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.588,
+        "semantic": 0.535,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0084760",
+        "years_of_experience": 3.3,
+        "current_title": "Computer Vision Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.8,
+        "last_active_date": "2026-04-22",
+        "all_skills": "scikit-learn weights & biases embeddings tts milvus terraform learning to rank apache beam opensearch weaviate peft data science figma bentoml mlops",
+        "profile_completeness_score": 50.3,
+        "interview_completion_rate": 0.78
+      }
+    },
+    {
+      "rank": 99,
+      "candidate_id": "CAND_0044607",
+      "score": 0.468,
+      "reasoning": "Engineer with 0 years of experience. QA Engineer with 8 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.592,
+        "semantic": 0.522,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0044607",
+        "years_of_experience": 8.1,
+        "current_title": "QA Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.42,
+        "last_active_date": "2026-04-12",
+        "all_skills": "pytorch forecasting etl next.js seo dbt sap salesforce crm airflow redux sql flask",
+        "profile_completeness_score": 79.7,
+        "interview_completion_rate": 0.94
+      }
+    },
+    {
+      "rank": 100,
+      "candidate_id": "CAND_0033650",
+      "score": 0.4672,
+      "reasoning": "Engineer with 0 years of experience. Junior ML Engineer with 4 years experience Has product company experience Partial skill match \u2014 may require assessment.",
+      "sub_scores": {
+        "technical": 0.0,
+        "experience": 1.0,
+        "domain": 0.5,
+        "behavioral": 0.581,
+        "semantic": 0.536,
+        "nice_to_have": 0.0
+      },
+      "risk_flag": null,
+      "metadata": {
+        "candidate_id": "CAND_0033650",
+        "years_of_experience": 4.2,
+        "current_title": "Junior ML Engineer",
+        "is_consulting_only": false,
+        "recruiter_response_rate": 0.52,
+        "last_active_date": "2026-02-20",
+        "all_skills": "mlops illustrator mlflow opencv vector search qlora rag semantic search weights & biases lora hadoop bentoml",
+        "profile_completeness_score": 75.9,
+        "interview_completion_rate": 0.72
+      }
+    }
+  ],
+  "time_seconds": 70.27,
+  "stage_times": {
+    "stage1": 0.0,
+    "stage2": 36.94,
+    "stage3": 0.01,
+    "stage4": 0.0,
+    "stage5": 0.0
+  },
+  "pipeline_mode": "heuristic",
+  "spec": {
+    "must_have_skills": [
+      "python"
+    ],
+    "nice_to_have_skills": [],
+    "experience_band": {
+      "min": 3,
+      "max": 10
+    },
+    "domain_context": "Senior-level role in ML/AI infrastructure",
+    "seniority_label": "senior",
+    "product_company_required": false,
+    "inferred_weights": {
+      "technical_skills": 0.37,
+      "experience_fit": 0.28,
+      "domain_fit": 0.22,
+      "behavioral": 0.13
+    },
+    "summary_for_embedding": "senior engineer 3-10 years python"
+  }
+}

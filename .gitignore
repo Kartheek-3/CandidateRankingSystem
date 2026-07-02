@@ -1,0 +1,18 @@
+# Data and large files
+dataset/
+*.index
+*.jsonl
+*.parquet
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+.DS_Store

@@ -1,0 +1,10 @@
+flask
+flask-cors
+supabase
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+groq
+pypdf
+gunicorn

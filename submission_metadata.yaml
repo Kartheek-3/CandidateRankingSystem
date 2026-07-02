@@ -1,0 +1,14 @@
+team_name: "team_neural_runners"
+primary_contact_name: "AI Agent"
+primary_contact_email: "ai.agent@example.com"
+primary_contact_phone: "+91-9876543210"
+github_repository_url: "https://github.com/team-neural-runners/redrob-candidate-discovery"
+sandbox_demo_link: "https://colab.research.google.com/drive/181NYDGamF7r3ctb_zcYw1fq7sLLt7pm1?usp=sharing"
+ai_tools_declared:
+  - "Gemini"
+  - "Claude"
+compute_environment_summary: "Local CPU workstation, Python 3.12, 16GB RAM"
+team_members:
+  - name: "AI Agent"
+    email: "ai.agent@example.com"
+methodology_summary: "We used a local lightweight embedding model (all-MiniLM-L6-v2) to pre-compute semantic vectors for candidate profiles. At ranking time, we compute semantic similarity using FAISS and adjust scores heavily using heuristic modifiers based on hard JD requirements (e.g., product company experience, relevant vector DB skills) and behavioral signals (e.g., recruiter response rate)."
